@@ -5,7 +5,7 @@
 <h2 align="center">⚡About Me:</h2>
 <div/>         
 <div style="display: flex; align-items: left; justify-content: left;">
-    <img align="right" alt="Itsame" width="280" src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/a8da14f0-34f8-446a-a163-414073055e05">         
+    <img align="right" alt="Itsame" width="280" src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/a8da14f0-34f8-446a-a163-414073055e05">          
     
 - 👨🏽 28 Y/O Male   
 - 🔭 Currently working on: [Portable AR150 Wi-Fi Pineapple](https://github.com/)
@@ -18,10 +18,10 @@
 - 🤸🏽‍♂️🎧 Fun fact: **I love sports and music!**
 <div align="left">   
     <a href="https://github.com/kittinan/spotify-github-profile">       
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=1119599286&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile">     
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=1119599286&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile">      
 <h2 align="center">🎭 HomeLab Projects:</h2> 
 <div style="display: flex; align-items: left; justify-content: left;">
-    <img align="right" alt="HomeLab Projects" width ="280" src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/a1e7f9bf-38e1-4678-9b58-e31bb4496ac4">    
+    <img align="right" alt="HomeLab Projects" width ="280" src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/4fbc40db-8526-42a3-a968-f48ff4284aad">      
     
 - Project 1 
 

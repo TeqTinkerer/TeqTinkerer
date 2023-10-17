@@ -1,6 +1,6 @@
-<h1 align="center">Hi there Tinkerers!👋🏽🦾</h1>
+<h1 align="center">Hi there Tinkerers!👋🏽🦾 welcome to my page! 🐸</h1>
 <p align="center">
-  <img src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/6c368abd-6f6b-460a-b82a-14972c55c413" width="640" height="320">
+  <img src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/6c368abd-6f6b-460a-b82a-14972c55c413" width="640" height="320"> 
 </p>
 <h2 align="center">About Me:</h2>
 <p align="center">  

@@ -1,8 +1,11 @@
 <h1 align="center">Hi there Tinkerers!👋🏽🦾</h1>
+<p align="center">
+  <img src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/6c368abd-6f6b-460a-b82a-14972c55c413" width="640" height="320">
+</p>
 <h2 align="center">About Me:</h2>
 <p align="center">  
 <div style="display: flex; align-items: left; justify-content: left;">
-    <img align="right" alt="Itsame" width="280" src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/a8da14f0-34f8-446a-a163-414073055e05">  
+    <img align="right" alt="Itsame" width="280" src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/a8da14f0-34f8-446a-a163-414073055e05">   
     
 - 👨🏽 28 Y/O Male 
 - 🔭 Currently working on: [Portable AR150 Wi-Fi Pineapple](https://github.com/)

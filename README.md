@@ -89,7 +89,7 @@
 </div>
 <div/>       
 <p align="center">      
-<p align="center">       
+<p align="center">        
 <div align="center"> 
   <h2>📊 Useless Stats:</h2> 
   <div/>     
@@ -97,14 +97,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=teqtinkerer&theme=github-dark" alt="teqtinkerer" width="400" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=teqtinkerer&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="teqtinkerer" width="400" /> 
 </div>
-<div align="center">  
 
-  ![Snake animation](teqtinkerer)
-<p align="center">      
-<div align="center">
+![snake gif](https://github.com/teqtinkerer/teqtinkerer/blob/output/github-contribution-grid-snake-dark.svg)
+
 <h2>🤝🏽 Connect with me:</h2> 
-<div/>     
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/mahdi-tavakoli-0644a61b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahdi-tavakoli-0644a61b8/" height="30" width="40" /></a>  
+<div align="center">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/mahdi-tavakoli-0644a61b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahdi-tavakoli-0644a61b8/" height="30" width="40" /></a>   
   <a href="https://instagram.com/@teqtinkerer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@teqtinkerer" height="30" width="40" /></a>   
   <a href="https://medium.com/@teq_tinkerer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@teq_tinkerer" height="30" width="40" /></a>  
   <a href="https://www.youtube.com/c/https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/" height="30" width="40" /></a>   

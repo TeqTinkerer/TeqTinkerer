@@ -1,143 +1,54 @@
-<h1 align="center">Hi there, Tinkerers!👋</h1>
-<h3 align="center">⚡️ A Few Quick Facts:</h3>
+<h1 align="center">Hi there Tinkerers! 👋🏽</h1>
+<h3 align="left">About Me:</h3>
 
-<div style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/a8da14f0-34f8-446a-a163-414073055e05">  
-    <div> 
-        <h4>
-            <ul style="list-style-type: none; padding: 0;">
-                <li>🔭 I’m currently working on <a href="https://www.github.com">Portable AR150 Wi-FI Pineapple</a></li>
-                <li>🌱 I’m currently learning CSS **@hackthebox**</li>
-                <li>👨‍💻 I enjoy working on:</li>
-                <ul style="list-style-type: disc; padding: 0 0 0 20px;">
-                    <li>☠️ Pentesting related Projects</li>
-                    <li>🤖 Automation & Artificial Intelligence</li>
-                    <li>🛠 DIY Raspberry Pi/Arduino Projects</li>
-                    <li>🖨️ 3D-Printing Projects</li> 
-                </ul>
-                <li>💡 Fun fact **I love sports!**</li>
-            </ul>
-        </h4>
-    </div>
-</div>
+<div style="display: flex; align-items: left; justify-content: left;">
+    <img align="left" alt="Itsame" width ="300" src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/a8da14f0-34f8-446a-a163-414073055e05"> 
 
+ - 👨🏽 28 Y/O Male
 
-<div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/mahdi-tavakoli-0644a61b8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-<a href="https://github.com/TeqTinkerer" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  
-<a href="https://instagram.com/https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ - 🔭 I’m currently working on: [Portable AR150 Wi-Fi Pineapple](https://github.com/)
 
-</div><h1 align="left">Projects:</h1>
+ - 🌱 I’m currently learning: **CSS at Hack The Box**
 
-<div style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/799a38b9-d151-4858-9827-70fc7d594eed">  
-    <div> 
-        <h4>
-            <ul style="list-style-type: none; padding: 0;">
-                <li>🔭 <a href="https://www.github.com">Portable AR150 Wi-FI Pineapple</a></li> 
-                <li>🌱 <a href="https://www.github.com">ALOT Raspberry Pi Zero</a></li>  
-                <li>👨‍💻 <a href="https://www.github.com">Warflying with Wi-FI</a></li>  
-                <ul style="list-style-type: disc; padding: 0 0 0 20px;">
-                    <li>☠️ Pentesting related Projects</li>
-                    <li>🤖 Automation & Artificial Intelligence</li>
-                    <li>🛠 DIY Raspberry Pi/Arduino Projects</li>
-                    <li>🖨️ 3D-Printing Projects</li> 
-                </ul> 
-                <li>💡 Fun fact **I love sports!**</li>
-            </ul>
-        </h4> 
-    </div>
-</div>
+ - 👨🏽‍💻 I enjoy working on: **☠️ Pentesting related Projects 🤖 Automation & Artificial Intelligence 🛠 DIY Raspberry Pi/Arduino Projects 🖨️ 3D-Printing Projects**
 
+ - ⚡ Fun fact: **I love sports!**
 
-<div> 
+  <div/> 
+ <div/> 
+  <h2 align="left">Projects:</h2>
+<div style="display: flex; align-items: left; justify-content: left;">
+    <img align="right" alt="Projects" src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/799a38b9-d151-4858-9827-70fc7d594eed">  
 
-<div>
-    <h3 align="left">Connect with me:</h3>
-    <p align="left"> 
-        <a href="https://linkedin.com/in/https://www.linkedin.com/in/mahdi-tavakoli-0644a61b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahdi-tavakoli-0644a61b8/" height="30" width="40" /></a> 
-        <a href="https://www.youtube.com/c/https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="https://www.youtube.com/" height="30" width="40" /></a> 
-        <a href="https://instagram.com/https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="https://www.instagram.com/" height="30" width="40" /></a> 
-        <a href="https://discord.gg/your_discord_profile_link" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
-    </p>
-</div>
+- 👨🏽 28 Y/O Male
 
+- 🔭 I’m currently working on: [Portable AR150 Wi-Fi Pineapple](https://github.com/)
 
+- 🌱 I’m currently learning: **CSS at Hack The Box**
+
+- 👨🏽‍💻 I enjoy working on: **☠️ Pentesting related Projects 🤖 Automation & Artificial Intelligence 🛠 DIY Raspberry Pi/Arduino Projects 🖨️ 3D-Printing Projects**
+
+- ⚡ Fun fact: **I love sports!** 
+
+  <div/>
+
+<h3 align="left">Connect with me:</h3>
+
+##
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahdi-tavakoli-0644a61b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahdi-tavakoli-0644a61b8/" height="30" width="40" /></a> 
+<a href="https://instagram.com/@teqtinkerer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@teqtinkerer" height="30" width="40" /></a>
+<a href="https://medium.com/@teq_tinkerer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@teq_tinkerer" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
-<table align="left">
-    <tr>
-        <th>Operating Systems</th>
-    </tr>
-    <tr>
-        <td align="center">
-            <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
-            <br>Linux
-        </td>
-    </tr>
-</table>
+##
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<table align="left">
-    <tr>
-        <th>Coding/Programming</th>
-    </tr>
-    <tr>
-        <td align="center">
-            <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-            <br>Python
-        </td>
-        <td align="center">
-            <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-            <br>Javascript
-        </td>
-        <td align="center">
-            <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
-            <br>Csharp
-        </td>
-    </tr>
-</table>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teqtinkerer&show_icons=true&locale=en&layout=compact" alt="teqtinkerer" /></p>
 
-<table align="left">
-    <tr>
-        <th>CAD/Design</th>
-    </tr>
-    <tr>
-        <td align="center">
-            <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
-            <br>Blender
-        </td>
-        <td align="center">
-            <img src="https://dl.dropboxusercontent.com/s/6e7hk06wzjp3j52/Matlab_Logo.png" alt="MatLab" width="40" height="40"/>
-            <br>MatLab
-        </td>
-    </tr>
-</table>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teqtinkerer&show_icons=true&locale=en" alt="teqtinkerer" /></p>
 
-<table align="left">
-    <tr>
-        <th>Other</th>
-    </tr>
-    <tr>
-        <td align="center">
-            <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Automation/ifttt-ar21.svg" alt="Ifttt" width="40" height="40"/> 
-            <br>Ifttt
-        </td>
-        <td align="center">
-            <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/gnu_bash-icon.svg" alt="Gnu Bash" width="40" height="40"/> 
-            <br>Gnu Bash
-        </td>
-        <td align="center"> 
-            <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/> 
-            <br>Mysql
-        </td>
-        <td align="center">  
-            <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>   
-            <br>HTML
-        </td>
-        <td align="center">  
-            <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-            <br>Android
-        </td>
-    </tr> 
-</table>
- <div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teqtinkerer&" alt="teqtinkerer" /></p>

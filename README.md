@@ -1,4 +1,4 @@
-<h1 align="center">Hi there Tinkerers! 👋🏽</h1>
+<h1 align="center">Hi there Tinkerers!👋🏽🦾</h1>
 <h2 align="center">About Me:</h2>
 <p align="center">  
 <div style="display: flex; align-items: left; justify-content: left;">

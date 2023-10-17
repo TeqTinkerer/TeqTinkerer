@@ -1,4 +1,8 @@
 <h1 align="center">Hi there, Tinkerers!👋</h1>
+
+![Itsame](https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/19950965-5406-49a5-bb7d-9528956e3f83) 
+
+
 <h3 align="center">⚡️ A Few Quick Facts:</h3>
 - 🔭 I’m currently working on [Portable AR150 Wi-FI Pineapple](https://www.github.com)
 - 🌱 I’m currently learning CSS **@hackthebox**

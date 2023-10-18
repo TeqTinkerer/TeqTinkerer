@@ -1,11 +1,10 @@
-<h1 align="center">Hi there Tinkerers!👋🏽 welcome to my page! 🐸</h1>
-<div/>     
-<p align="center">    
-  <img src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/6c368abd-6f6b-460a-b82a-14972c55c413" width="640" height="320">       
+<h1 align="center">Hi there, I'm T3Q_T1NK3R3R.👋🏽💀</h1>  
+<p align="center">     
+  <img src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/6c368abd-6f6b-460a-b82a-14972c55c413" width="545" height="245">         
 <h2 align="center">⚡About Me:</h2>
 <div/>         
 <div style="display: flex; align-items: left; justify-content: left;">
-    <img align="right" alt="Itsame" width="280" src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/a8da14f0-34f8-446a-a163-414073055e05">          
+    <img align="right" alt="Itsame" width="250" src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/a8da14f0-34f8-446a-a163-414073055e05">           
     
 - 👨🏽 28 Y/O Male   
 - 🔭 Currently working on: [Portable AR150 Wi-Fi Pineapple](https://github.com/)
@@ -14,14 +13,14 @@
     - ☠️ Pentesting related Projects
     - 🤖 Automation & Artificial Intelligence
     - 🛠 DIY Raspberry Pi/Arduino Projects  
-    - 🖨️ 3D-Printing Projects
+    - 🖨️ 3D-Printing/PCB Projects
 - 🤸🏽‍♂️🎧 Fun fact: **I love sports and music!**
 <div align="left">   
     <a href="https://github.com/kittinan/spotify-github-profile">       
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=1119599286&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile">      
 <h2 align="center">🎭 HomeLab Projects:</h2> 
 <div style="display: flex; align-items: left; justify-content: left;">
-    <img align="right" alt="HomeLab Projects" width ="280" src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/4fbc40db-8526-42a3-a968-f48ff4284aad">      
+    <img align="right" alt="HomeLab Projects" width ="250" src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/4fbc40db-8526-42a3-a968-f48ff4284aad">       
     
 - Project 1 
 
@@ -36,7 +35,7 @@
 <p align="center">     
 <h2 align="center">💀 Pen-testing Projects:</h2>    
 <div style="display: flex; align-items: left; justify-content: left;">
-    <img align="right" alt="Pen Projects" width ="280" src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/799a38b9-d151-4858-9827-70fc7d594eed">
+    <img align="right" alt="Pen Projects" width ="250" src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/799a38b9-d151-4858-9827-70fc7d594eed">
 
 - Project 1 
 
@@ -56,7 +55,7 @@
 <h2 align="center">🖥️ My Outdated yet Wonderful Workstation:</h2>
 <p align="center">  
 <div style="display: flex; align-items: left; justify-content: left;">
-    <img align="right" alt="Setup" width="280" src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/3ba56ae4-0de6-4d08-8333-082f404095fb"> 
+    <img align="right" alt="Setup" width="250" src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/3ba56ae4-0de6-4d08-8333-082f404095fb">  
 </div>
 </p>
 </div>

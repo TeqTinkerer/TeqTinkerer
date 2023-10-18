@@ -94,9 +94,9 @@
 <div align="center">  
   <h2>📊 Useless Stats:</h2>  
   <div/>     
-  <img src="https://github-readme-stats.vercel.app/api?username=teqtinkerer&show_icons=true&locale=en&theme=github_dark" alt="teqtinkerer" width="280" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teqtinkerer&theme=github-dark" alt="teqtinkerer" width="300" />   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=teqtinkerer&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="teqtinkerer" width="280" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=teqtinkerer&show_icons=true&locale=en&theme=github_dark" alt="teqtinkerer" width="180" />   
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teqtinkerer&theme=github-dark" alt="teqtinkerer" width="200" />     
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=teqtinkerer&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="teqtinkerer" width="150" />   
 </div>
 
 ![snake gif](https://github.com/teqtinkerer/teqtinkerer/blob/output/github-contribution-grid-snake-dark.svg)

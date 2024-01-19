@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm T3Q_T1NK3R3R.👋🏽💀</h1>  
-<p align="center">     
-  <img alt="Banner" src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/71628517-a251-434b-b45c-bad79e0f387f">      
+<p align="center">      
+  <img alt="Wallpaper Updated" width="450" src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/011f3135-82a4-4383-825c-603be3944347">
 <h2 align="center">⚡About Me:</h2>
 <div/>
 <div style="display: flex; align-items: left; justify-content: left;">
-    <img align="right" alt="Itsame" width="250" src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/0d3524f3-ade3-49ea-aac3-7b19bdd8a569">             
+    <img align="right" alt="Itsame" width="250" src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/0d3524f3-ade3-49ea-aac3-7b19bdd8a569">              
     
 - 👨🏽 29 Y/O Male    
 - 🔭 Currently working on: [Portable AR150 Wi-Fi Pineapple](https://github.com/)

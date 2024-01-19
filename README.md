@@ -1,11 +1,10 @@
 <h1 align="center">Hi there, I'm T3Q_T1NK3R3R.👋🏽💀</h1>  
 <p align="center">     
-  <img src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/71628517-a251-434b-b45c-bad79e0f387f"> 
-" width="545" height="245">            
+  <img alt="Banner" width="540" height="250" src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/71628517-a251-434b-b45c-bad79e0f387f">     
 <h2 align="center">⚡About Me:</h2>
 <div/>         
 <div style="display: flex; align-items: left; justify-content: left;">
-    <img align="right" alt="Itsame" width="250" src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/204c5d80-048f-4476-b252-8a96030df06a">   
+    <img align="right" alt="Itsame" width="250" src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/204c5d80-048f-4476-b252-8a96030df06a">    
 ">             
     
 - 👨🏽 28 Y/O Male   

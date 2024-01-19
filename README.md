@@ -4,7 +4,8 @@
 <h2 align="center">⚡About Me:</h2>
 <div/>         
 <div style="display: flex; align-items: left; justify-content: left;">
-    <img align="right" alt="Itsame" width="250" src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/a8da14f0-34f8-446a-a163-414073055e05">            
+    <img align="right" alt="Itsame" width="250" src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/7e534563-c8ef-43c0-8f33-a5687fba063e">
+">             
     
 - 👨🏽 28 Y/O Male   
 - 🔭 Currently working on: [Portable AR150 Wi-Fi Pineapple](https://github.com/)

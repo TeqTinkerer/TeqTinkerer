@@ -6,16 +6,16 @@
 <div style="display: flex; align-items: left; justify-content: left;">
     <img align="right" alt="Itsame" width="250" src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/0d3524f3-ade3-49ea-aac3-7b19bdd8a569">               
     
-- 👨🏽 29 Y/O ♂️   
+- 👨🏽♂️ 29 Y/O Male   
 - 🔭 Currently working on: [Portable AR150 Wi-Fi Pineapple](https://github.com/)
-- 🌱 Currently learning: **CSS at Hack The Box**
-- 👨🏽‍💻 Enjoy working on: 
+- 🌱 Currently learning: **CSS at HackTheBox**
+- 👨🏽‍💻 Enjoy working on:  
     - ☠️ Pentesting Projects
     - 🛠 Hardware Hacking
     - 🤖 Automation & Artificial Intelligence
     - 🖨️ 3D-Printing/PCB Projects
-- 🤸🏽‍♂️🎧 Fun fact: **I LOVE sports and music!** 
-<div align="left">   
+    - 🤸🏽‍♂️🎧 Fun fact: I *LOVE* sports and music!
+<div align="left">    
     <a href="https://github.com/kittinan/spotify-github-profile">       
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=1119599286&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile">         
 <h2 align="center">🎭 HomeLab Projects:</h2> 
@@ -33,7 +33,7 @@
 - Project 5
 <div/>    
 <p align="center">     
-<h2 align="center">💀 Pen-testing Projects:</h2>    
+<h2 align="center">💀 Pentesting Projects:</h2>    
 <div style="display: flex; align-items: left; justify-content: left;">
     <img align="right" alt="Pen Projects" width ="250" src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/799a38b9-d151-4858-9827-70fc7d594eed">
 

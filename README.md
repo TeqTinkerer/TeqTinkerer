@@ -17,10 +17,10 @@
 - 🤸🏽‍♂️🎧 Fun fact: **I love sports and music!**
 <div align="left">   
     <a href="https://github.com/kittinan/spotify-github-profile">       
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=1119599286&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile">       
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=1119599286&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile">        
 <h2 align="center">🎭 HomeLab Projects:</h2> 
 <div style="display: flex; align-items: left; justify-content: left;">
-    <img align="right" alt="HomeLab Projects" width ="250" src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/dbc8e9c5-347c-4c8d-8da6-5c7b92569de4">        
+    <img align="right" alt="HomeLab Projects" width ="250" src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/e0b73192-fd6e-468e-835a-b84796feef25">         
     
 - Project 1 
 

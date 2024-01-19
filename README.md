@@ -1,6 +1,6 @@
 <h1 align="center"> T1NKER3R 💀</h1>   
 <p align="center">      
-  <img alt="Wallpaper Updated" width="570" src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/011f3135-82a4-4383-825c-603be3944347"> 
+  <img alt="Banner Wallpaper" width="450" src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/e7629a4e-1de5-4942-addd-6e6579e3aa52">
 <h2 align="center">⚡About Me:</h2>
 <div/>
 <div style="display: flex; align-items: left; justify-content: left;">

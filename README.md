@@ -1,4 +1,4 @@
-<h1 align="center"> TINKERSEC</h1>   
+<h1 align="center"> T1NKERSEC</h1>   
 <p align="center">      
   <img alt="Banner Wallpaper Final" width="845" src="https://github.com/TeqTinkerer/TeqTinkerer/assets/58558677/18524b21-995c-44b1-b6fb-605e370f9f39">    
 <h2 align="center">⚡About Me:</h2>
